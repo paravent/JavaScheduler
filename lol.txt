@@ -1,0 +1,585 @@
+C:\Users\aiden\workspaces\eclipse-workspace\StarterCode.zip_expanded\AdvancedProgrammingAssessment1>marker.exe add hello.txt
+this is the loop iteration  1
+departure airport   Manchester
+departure time      2020-07-01T16:05
+destination airport AYT
+arrival time        2020-07-01T22:30
+this is the loop iteration  2
+        departure airport   Antalya
+        departure time      2020-07-01T23:45
+        destination airport MAN
+        arrival time        2020-07-02T02:35
+this is the loop iteration  3
+                departure airport   Manchester
+                departure time      2020-07-02T17:30
+                destination airport AYT
+                arrival time        2020-07-02T23:55
+this is the loop iteration  4
+                        departure airport   Antalya
+                        departure time      2020-07-03T14:50
+                        destination airport MAN
+                        arrival time        2020-07-03T17:40
+this is the loop iteration  5
+                                departure airport   Manchester
+                                departure time      2020-07-03T17:45
+                                destination airport BJV
+                                arrival time        2020-07-03T23:55
+this is the loop iteration  6
+                                        departure airport   Bodrum
+                                        departure time      2020-07-04T00:55
+                                        destination airport MAN
+                                        arrival time        2020-07-04T03:15
+this is the loop iteration  7
+                                                departure airport   Manchester
+                                                departure time      2020-07-04T05:10
+                                                destination airport FAO
+                                                arrival time        2020-07-04T08:10
+this is the loop iteration  8
+                                                        departure airport   Faro
+                                                        departure time      2020-07-04T09:10
+                                                        destination airport MAN
+                                                        arrival time        2020-07-04T12:15
+this is the loop iteration  9
+                                                                departure airport   Manchester
+                                                                departure time      2020-07-04T13:50
+                                                                destination airport AYT
+                                                                arrival time        2020-07-04T20:15
+this is the loop iteration  10
+                                                                        departure airport   Antalya
+                                                                        departure time      2020-07-04T21:30
+                                                                        destination airport MAN
+                                                                        arrival time        2020-07-05T00:20
+this is the loop iteration  11
+                                                                                departure airport   Manchester
+                                                                                departure time      2020-07-05T06:00
+                                                                                destination airport BJV
+                                                                                arrival time        2020-07-05T12:10
+this is the loop iteration  12
+                                                                                        departure airport   Bodrum
+                                                                                        departure time      2020-07-05T13:25
+                                                                                        destination airport MAN
+                                                                                        arrival time        2020-07-05T15:45
+this is the loop iteration  13
+                                                                                                departure airport   Manchester
+                                                                                                departure time      2020-07-05T17:00
+                                                                                                destination airport AYT
+                                                                                                arrival time        2020-07-05T23:25
+this is the loop iteration  14
+                                                                                                        departure airport   Antalya
+                                                                                                        departure time      2020-07-06T00:40
+                                                                                                        destination airport MAN
+                                                                                                        arrival time        2020-07-06T03:30
+this is the loop iteration  15
+                                                                                                                departure airport   Manchester
+                                                                                                                departure time      2020-07-06T18:00
+                                                                                                                destination airport AYT
+                                                                                                                arrival time        2020-07-07T00:25
+this is the loop iteration  16
+                                                                                                                        departure airport   Antalya
+                                                                                                                        departure time      2020-07-07T22:50
+                                                                                                                        destination airport MAN
+                                                                                                                        arrival time        2020-07-08T01:40
+        ------------------------------------------------
+plane must have -- 242  seats
+Cabin crew required : 6
+Pilot must be qualified to fly : B757
+        ------------------------------------------------
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 129
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 308
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 129
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 896
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 897
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 1168
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 1169
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 354
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 355
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 586
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 587
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 130
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 131
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 606
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+CREW PERSON ---0 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---1 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---2 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---3 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---4 HAS BEEN PUT ONTO A FLIGHT
+CREW PERSON ---5 HAS BEEN PUT ONTO A FLIGHT
+        -----------------------------------------------------------------------------------------
+        Flight number  = 127
+        Flight model   = G-JMAB
+        Crew required was  = Efren  Moor
+        Crew required was  = Cherryl  Cowher
+        Crew required was  = Adrianna  Hoar
+        Crew required was  = Shelba  Magdaleno
+        Crew required was  = Tangela  Tennant
+        Crew required was  = Layne  Ratzlaff
+        Pilot first officer is  = Morton
+        Pilot captain is  = Loyd
+15-----------------------------------------------------------------------------------------
+this is the loop iteration  17
+departure airport   Manchester
+departure time      2020-07-01T16:05
+destination airport AYT
+arrival time        2020-07-01T22:30
+this is the loop iteration  18
+        departure airport   Antalya
+        departure time      2020-07-02T21:25
+        destination airport MAN
+        arrival time        2020-07-03T00:15
+this is the loop iteration  19
+                departure airport   Manchester
+                departure time      2020-07-03T07:10
+                destination airport AYT
+                arrival time        2020-07-03T13:35
+this is the loop iteration  20
+                        departure airport   Antalya
+                        departure time      2020-07-04T15:30
+                        destination airport MAN
+                        arrival time        2020-07-04T18:20
+this is the loop iteration  21
+                                departure airport   Manchester
+                                departure time      2020-07-05T06:00
+                                destination airport AYT
+                                arrival time        2020-07-05T12:25
+this is the loop iteration  22
+                                        departure airport   Antalya
+                                        departure time      2020-07-05T13:40
+                                        destination airport MAN
+                                        arrival time        2020-07-05T16:25
+this is the loop iteration  23
+                                                departure airport   Manchester
+                                                departure time      2020-07-06T07:00
+                                                destination airport AYT
+                                                arrival time        2020-07-06T13:25
+this is the loop iteration  24
+                                                        departure airport   Antalya
+                                                        departure time      2020-07-06T14:40
+                                                        destination airport MAN
+                                                        arrival time        2020-07-06T17:30
+this is the loop iteration  25
+                                                                departure airport   Manchester
+                                                                departure time      2020-07-07T06:30
+                                                                destination airport FAO
+                                                                arrival time        2020-07-07T09:15
+this is the loop iteration  26
+                                                                        departure airport   Faro
+                                                                        departure time      2020-07-07T10:15
+                                                                        destination airport MAN
+                                                                        arrival time        2020-07-07T13:30
+this is the loop iteration  27
+                                                                                departure airport   Manchester
+                                                                                departure time      2020-07-07T15:10
+                                                                                destination airport AYT
+                                                                                arrival time        2020-07-07T21:35
+        ------------------------------------------------
+plane must have -- 133  seats
+Cabin crew required : 6
+Pilot must be qualified to fly : B757
+        ------------------------------------------------
+        -----------------------------------------------------------------------------------------
+        Flight number  = 355
+java.lang.NullPointerException
+        at solution.Scheduler.generateSchedule(Scheduler.java:207)
+        at baseclasses.SchedulerRunner$1.run(SchedulerRunner.java:60)
+        at java.lang.Thread.run(Unknown Source)
+15-----------------------------------------------------------------------------------------
+this is the loop iteration  28
+departure airport   Manchester
+departure time      2020-07-01T16:05
+destination airport AYT
+arrival time        2020-07-01T22:30
+this is the loop iteration  29
+        departure airport   Antalya
+        departure time      2020-07-02T21:25
+        destination airport MAN
+        arrival time        2020-07-03T00:15
+this is the loop iteration  30
+                departure airport   Manchester
+                departure time      2020-07-03T07:10
+                destination airport AYT
+                arrival time        2020-07-03T13:35
+this is the loop iteration  31
+                        departure airport   Antalya
+                        departure time      2020-07-04T15:30
+                        destination airport MAN
+                        arrival time        2020-07-04T18:20
+this is the loop iteration  32
+                                departure airport   Manchester
+                                departure time      2020-07-05T06:00
+                                destination airport AYT
+                                arrival time        2020-07-05T12:25
+this is the loop iteration  33
+                                        departure airport   Antalya
+                                        departure time      2020-07-05T13:40
+                                        destination airport MAN
+                                        arrival time        2020-07-05T16:25
+this is the loop iteration  34
+                                                departure airport   Manchester
+                                                departure time      2020-07-06T07:00
+                                                destination airport AYT
+                                                arrival time        2020-07-06T13:25
+this is the loop iteration  35
+                                                        departure airport   Antalya
+                                                        departure time      2020-07-06T14:40
+                                                        destination airport MAN
+                                                        arrival time        2020-07-06T17:30
+this is the loop iteration  36
+                                                                departure airport   Manchester
+                                                                departure time      2020-07-07T06:30
+                                                                destination airport FAO
+                                                                arrival time        2020-07-07T09:15
+this is the loop iteration  37
+                                                                        departure airport   Faro
+                                                                        departure time      2020-07-07T10:15
+                                                                        destination airport MAN
+                                                                        arrival time        2020-07-07T13:30
+this is the loop iteration  38
+                                                                                departure airport   Manchester
+                                                                                departure time      2020-07-07T15:10
+                                                                                destination airport AYT
+                                                                                arrival time        2020-07-07T21:35
+        ------------------------------------------------
+plane must have -- 133  seats
+Cabin crew required : 6
+Pilot must be qualified to fly : B757
+        ------------------------------------------------
+        -----------------------------------------------------------------------------------------
+        Flight number  = 355
+java.lang.NullPointerException
+        at solution.Scheduler.generateSchedule(Scheduler.java:207)
+        at baseclasses.SchedulerRunner$1.run(SchedulerRunner.java:60)
+        at java.lang.Thread.run(Unknown Source)
+15-----------------------------------------------------------------------------------------
+this is the loop iteration  39
+departure airport   Manchester
+departure time      2020-07-01T16:05
+destination airport AYT
+arrival time        2020-07-01T22:30
+this is the loop iteration  40
+        departure airport   Antalya
+        departure time      2020-07-02T21:25
+        destination airport MAN
+        arrival time        2020-07-03T00:15
+this is the loop iteration  41
+                departure airport   Manchester
+                departure time      2020-07-03T07:10
+                destination airport AYT
+                arrival time        2020-07-03T13:35
+this is the loop iteration  42
+                        departure airport   Antalya
+                        departure time      2020-07-04T15:30
+                        destination airport MAN
+                        arrival time        2020-07-04T18:20
+this is the loop iteration  43
+                                departure airport   Manchester
+                                departure time      2020-07-05T06:00
+                                destination airport AYT
+                                arrival time        2020-07-05T12:25
+this is the loop iteration  44
+                                        departure airport   Antalya
+                                        departure time      2020-07-05T13:40
+                                        destination airport MAN
+                                        arrival time        2020-07-05T16:25
+this is the loop iteration  45
+                                                departure airport   Manchester
+                                                departure time      2020-07-06T07:00
+                                                destination airport AYT
+                                                arrival time        2020-07-06T13:25
+this is the loop iteration  46
+                                                        departure airport   Antalya
+                                                        departure time      2020-07-06T14:40
+                                                        destination airport MAN
+                                                        arrival time        2020-07-06T17:30
+this is the loop iteration  47
+                                                                departure airport   Manchester
+                                                                departure time      2020-07-07T06:30
+                                                                destination airport FAO
+                                                                arrival time        2020-07-07T09:15
+this is the loop iteration  48
+                                                                        departure airport   Faro
+                                                                        departure time      2020-07-07T10:15
+                                                                        destination airport MAN
+                                                                        arrival time        2020-07-07T13:30
+this is the loop iteration  49
+                                                                                departure airport   Manchester
+                                                                                departure time      2020-07-07T15:10
+                                                                                destination airport AYT
+                                                                                arrival time        2020-07-07T21:35
+        ------------------------------------------------
+plane must have -- 133  seats
+Cabin crew required : 6
+Pilot must be qualified to fly : B757
+        ------------------------------------------------
+        -----------------------------------------------------------------------------------------
+        Flight number  = 355
+java.lang.NullPointerException
+        at solution.Scheduler.generateSchedule(Scheduler.java:207)
+        at baseclasses.SchedulerRunner$1.run(SchedulerRunner.java:60)
+        at java.lang.Thread.run(Unknown Source)
+15-----------------------------------------------------------------------------------------
+this is the loop iteration  50
+departure airport   Manchester
+departure time      2020-07-01T16:05
+destination airport AYT
+arrival time        2020-07-01T22:30
+this is the loop iteration  51
+        departure airport   Antalya
+        departure time      2020-07-02T21:25
+        destination airport MAN
+        arrival time        2020-07-03T00:15
+this is the loop iteration  52
+                departure airport   Manchester
+                departure time      2020-07-03T07:10
+                destination airport AYT
+                arrival time        2020-07-03T13:35
+this is the loop iteration  53
+                        departure airport   Antalya
+                        departure time      2020-07-04T15:30
+                        destination airport MAN
+                        arrival time        2020-07-04T18:20
+this is the loop iteration  54
+                                departure airport   Manchester
+                                departure time      2020-07-05T06:00
+                                destination airport AYT
+                                arrival time        2020-07-05T12:25
+this is the loop iteration  55
+                                        departure airport   Antalya
+                                        departure time      2020-07-05T13:40
+                                        destination airport MAN
+                                        arrival time        2020-07-05T16:25
+this is the loop iteration  56
+                                                departure airport   Manchester
+                                                departure time      2020-07-06T07:00
+                                                destination airport AYT
+                                                arrival time        2020-07-06T13:25
+this is the loop iteration  57
+                                                        departure airport   Antalya
+                                                        departure time      2020-07-06T14:40
+                                                        destination airport MAN
+                                                        arrival time        2020-07-06T17:30
+this is the loop iteration  58
+^C
